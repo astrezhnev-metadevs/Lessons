@@ -16,5 +16,5 @@ public class Lesson1 {  public static void main(String[] args) {
 //        String userInput = scanner.next();
     String userInput = new Scanner(System.in).next();
     System.out.println(userInput);
-}
+    }
 }
