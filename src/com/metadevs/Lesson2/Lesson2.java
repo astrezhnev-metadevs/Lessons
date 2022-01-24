@@ -1,4 +1,4 @@
-package com.company;
+package com.metadevs.Lesson2;
 
 import java.util.Scanner;
 
@@ -6,9 +6,9 @@ public class Lesson2 {
     public static void main(String[] args) {
         int a = 10;
         int b = 8;
-        sum(a, b);  // 14
-        sum(3, a);  // 9
-        sum(5, 23); // 28
+        sum(a, b);
+        sum(3, a);
+        sum(5, 23);
         boolean aGreaterThenB = a > b;
         boolean aLessThenB = a < b;
         boolean aGreaterOrEqualThenB = a >= b;
